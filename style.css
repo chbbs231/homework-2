@@ -215,4 +215,5 @@ body {
 	background: #4aaaa5;
 	border: 0 none;
   }
-  
+  /* had trouble with this part
+  @media only screen (max-width:640px) 
